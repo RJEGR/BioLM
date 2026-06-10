@@ -1,0 +1,12 @@
+# Bootcamp Bio-LLMs — Módulo 1
+# Requisitos mínimos para ejecutar los notebooks 01, 02 y 03.
+
+torch>=2.0.0          # PyTorch (preferiblemente >= 2.4 para mejor torch.compile)
+numpy>=1.24
+matplotlib>=3.7
+jupyter>=1.0          # o jupyterlab
+ipykernel>=6.0
+
+# Opcionales para experimentación adicional (no obligatorios para Módulo 1)
+# biopython>=1.81     # Para reemplazar el corpus sintético con datos reales NCBI
+# scikit-learn>=1.3   # Para análisis post-hoc de embeddings (clustering, PCA)
