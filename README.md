@@ -1,7 +1,7 @@
 
 # BOOTCAMP EN MODELOS DE LENGUAJE BIOLÓGICOS (Bio-LLMs)
 
-> **Contexto de diseño.** Este bootcamp está calibrado para el proyecto posdoctoral *"Modelos fundacionales de lenguaje genómico y proteómico para venómica integrativa de caracoles cónidos"*, ejecutable sobre la infraestructura de CICESE (NVIDIA A100 40 GB, 2× Xeon Gold 5420+, 1 TB RAM). La progresión escala desde fundamentos NLP hasta despliegue en tareas downstream (clasificación de superfamilias de conotoxinas, generación *de novo* tipo *ConoGen*, predicción funcional tipo *ConoPred*).
+> **Contexto de diseño.** Este bootcamp está diseñado para el proyecto *"Modelos fundacionales de lenguaje genómico y proteómico para venómica integrativa de caracoles cónidos"*, ejecutable sobre la infraestructura de CICESE (NVIDIA A100 40 GB, 2× Xeon Gold 5420+, 1 TB RAM). La progresión escala desde fundamentos NLP hasta despliegue en tareas downstream (clasificación de superfamilias de conotoxinas, generación *de novo* tipo *ConoGen*, predicción funcional tipo *ConoPred*).
 
 ---
 
